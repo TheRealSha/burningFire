@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992675069757",
+    "firebase_url": "https://burningfire.firebaseio.com",
+    "project_id": "burningfire",
+    "storage_bucket": "burningfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992675069757:android:70ae4790389ba4dfc68f54",
+        "android_client_info": {
+          "package_name": "trap1.khatoresha.burningfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992675069757-vo756ne0hr0t62gdipsh5gin1912ss8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "trap1.khatoresha.burningfire",
+            "certificate_hash": "3901cefcbdc8371b24ca90b62939c0dcb4aa8b19"
+          }
+        },
+        {
+          "client_id": "992675069757-oqgbpvjg2rlhgsv0t2n021aosu35kp7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ6OSJ8_TP5noAPloL3_7Cy4oKmLLYOUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992675069757-oqgbpvjg2rlhgsv0t2n021aosu35kp7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
